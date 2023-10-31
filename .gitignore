@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+*.log
+*.pid
+*.lock
+*.out
+*.stderr
+*.stdout
+*.env.local
+
+# Yarn
+.yarn/cache
+.yarn/debug.log
+.yarn/info.lock
+.yarn/packages
+.yarn/plugins
+.yarn/versions
+
+# Other
+.DS_Store
+Thumbs.db 
